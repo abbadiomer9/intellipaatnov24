@@ -1,1 +1,1 @@
-new file created.I have updated a new line. new line has been updated directly on the ec2 instance 
+new file created.I have updated a new line. new line has been updated directly on the ec2 instance. New line included to understand how git fetch works.
