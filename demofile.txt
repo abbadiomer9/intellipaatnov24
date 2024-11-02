@@ -1,1 +1,1 @@
-new file created.I have updated a new line
+new file created.I have updated a new line. new line has been updated directly on the ec2 instance 
